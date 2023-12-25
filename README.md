@@ -5,7 +5,7 @@ I'm currently a graduate student at the University of Massachusetts, Amherst, de
 ## About Me
 - 🎓 **Studying:** Master of Science in Computer Science with coursework in distributed systems, software engineering, and machine learning.
 - 🎓 **Background:** Completed my Bachelor's in Computer Science and Engineering with a focus on Python, AI, and web technologies.
-- 💼 **Experience:** Gained practical experience in app development and network security through internships at Revamp Academy and CISCO.
+
 
 ## Skills
 - **Languages:** Proficient in C, Python, R, Solidity and Java.
